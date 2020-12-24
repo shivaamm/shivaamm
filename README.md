@@ -1,4 +1,4 @@
-### Hi there!! Welcome 👋
+### Hey there!! Welcome 👋
 
 ![](https://komarev.com/ghpvc/?username=shivaamm&color=blueviolet)
 <!--
