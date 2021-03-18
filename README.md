@@ -2,9 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=shivaamm&color=blueviolet)
 
-<img src="https://i.pinimg.com/originals/da/8d/28/da8d287d2cf4941ed9f77b4c9e60225f.jpg">
+![image](https://user-images.githubusercontent.com/59584173/111585860-f275d080-87e5-11eb-83fd-b8cef8143770.png)
 
 <!--
+<img src="https://i.pinimg.com/originals/da/8d/28/da8d287d2cf4941ed9f77b4c9e60225f.jpg">
+
+
+
 
 [![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=shivaamm&count_private=true&show_icons=true&theme=synthwave)](https://github.com/shivaamm/github-readme-stats)
 
