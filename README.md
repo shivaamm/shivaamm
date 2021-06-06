@@ -1,14 +1,16 @@
-### Hey there!! Welcome ✨✨
 
-![](https://komarev.com/ghpvc/?username=shivaamm&color=blueviolet)
+### Hey there!! Welcome ✨✨ ![](https://komarev.com/ghpvc/?username=shivaamm&color=blueviolet)
 
-![image](https://user-images.githubusercontent.com/59584173/111585860-f275d080-87e5-11eb-83fd-b8cef8143770.png)
+![shivaamm (1)](https://user-images.githubusercontent.com/59584173/120915465-6a56e700-c6c1-11eb-945b-31410216bf08.gif)
+
+
+
+<!-- ![image](https://user-images.githubusercontent.com/59584173/111585860-f275d080-87e5-11eb-83fd-b8cef8143770.png) -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivaamm&theme=highcontrast)](https://git.io/streak-stats)
 
-<!--
-<img src="https://i.pinimg.com/originals/da/8d/28/da8d287d2cf4941ed9f77b4c9e60225f.jpg">
 
+<!--
 
 
 
@@ -24,6 +26,7 @@
 **shivaamm/shivaamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
