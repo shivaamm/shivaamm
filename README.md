@@ -7,8 +7,8 @@
 
 <!-- ![image](https://user-images.githubusercontent.com/59584173/111585860-f275d080-87e5-11eb-83fd-b8cef8143770.png) -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivaamm&theme=highcontrast)](https://git.io/streak-stats)
-
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivaamm&theme=highcontrast)](https://git.io/streak-stats) -->
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=shivaamm&theme=highcontrast" alt="GitHub Streak" /></p>
 
 <!--
 
