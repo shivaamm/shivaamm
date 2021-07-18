@@ -10,12 +10,12 @@
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivaamm&theme=highcontrast)](https://git.io/streak-stats) -->
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=shivaamm&theme=highcontrast" alt="GitHub Streak" /></p>
 
-<!--
+
 
 
 
 [![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=shivaamm&count_private=true&show_icons=true&theme=synthwave)](https://github.com/shivaamm/github-readme-stats)
-
+<!--
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaamm&layout=compact)](https://github.com/shivaamm/github-readme-stats)
 
